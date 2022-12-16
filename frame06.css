@@ -1,0 +1,868 @@
+.frame06-container {
+  min-height: 100vh;
+}
+.frame06-frame06 {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame06-frame01 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(249, 249, 249, 1);
+}
+.frame06-header {
+  top: 44px;
+  left: 0px;
+  width: 390px;
+  height: 44px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame06-room-design3d {
+  top: 9px;
+  left: 25px;
+  width: 280px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame06-text {
+  color: rgba(22, 22, 22, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame06-reset {
+  top: 13px;
+  left: 313px;
+  width: 18px;
+  height: 19px;
+  position: absolute;
+}
+.frame06-systemlightstatusbardefault {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame06-text02 {
+  top: 14px;
+  left: 25px;
+  color: var(--dl-color-default-black);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame06-battery {
+  top: 17px;
+  left: 340.70001220703125px;
+  width: 24.32803726196289px;
+  height: 11.333333015441895px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-border {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2.6666667461395264px;
+}
+.frame06-cap {
+  top: 3.666666030883789px;
+  left: 23px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.frame06-capacity {
+  top: 2px;
+  left: 2px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 1.3333333730697632px;
+}
+.frame06-wifi {
+  top: 17.3306884765625px;
+  left: 321px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.frame06-cellular-connection {
+  top: 17.666656494140625px;
+  left: 299px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.frame06-image1 {
+  top: 88px;
+  left: 0px;
+  width: 390px;
+  height: 459px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame06-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 530px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame06-livingroominteriorwallmockupwarmtoneswithleatherso {
+  top: -6px;
+  left: -26px;
+  width: 438px;
+  height: 530px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame06-upper-slider {
+  top: 567px;
+  left: 7px;
+  width: 390px;
+  height: 283px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px 40px 0 0;
+}
+.frame06-furnichure {
+  top: 594px;
+  left: 85px;
+  width: 220px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 90, 80, 1);
+}
+.frame06-text04 {
+  top: 4px;
+  left: 19px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-left-arrow {
+  top: 594px;
+  left: 40px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.frame06-right-arrow {
+  top: 594px;
+  left: 350px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.frame06-systemlighthomeindicator {
+  top: 810px;
+  left: 0px;
+  width: 390px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame06-home-indicator {
+  top: 21px;
+  left: 128px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 100px;
+}
+.frame06-innerfeachure {
+  top: 633.700439453125px;
+  left: 25px;
+  width: 340px;
+  height: 61.29953384399414px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-inner-feachure-box {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 61.29953384399414px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-union {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 61px;
+  position: absolute;
+}
+.frame06-chair {
+  top: 20.29953384399414px;
+  left: 10px;
+  width: 103.33000183105469px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 90, 80, 1);
+}
+.frame06-text06 {
+  top: 4px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-frame-table {
+  top: 20.299530029296875px;
+  left: 118.330078125px;
+  width: 103.33000183105469px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame06-text08 {
+  top: 4px;
+  left: 4px;
+  color: rgba(22, 22, 22, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-window-bllinds {
+  top: 20.299530029296875px;
+  left: 226.66015625px;
+  width: 103.33000183105469px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame06-text10 {
+  top: 4px;
+  left: 4px;
+  color: rgba(22, 22, 22, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-dilog-box2 {
+  top: 634px;
+  left: 85px;
+  width: 220px;
+  height: 175px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-dragableboxsqauar {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 175px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-union1 {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 175px;
+  position: absolute;
+}
+.frame06-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 25px;
+  position: absolute;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+}
+.frame06-cross {
+  top: 5px;
+  left: 196px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.frame06-text12 {
+  top: 2px;
+  left: 44px;
+  color: rgba(255, 90, 80, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-frame1 {
+  top: 30px;
+  left: 15px;
+  width: 188px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-frame011 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-checkbox {
+  top: 4px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.frame06-text14 {
+  left: 19px;
+  color: rgba(22, 22, 22, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-frame02 {
+  top: 0px;
+  left: 59px;
+  width: 49px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-checkbox1 {
+  top: 4px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.frame06-text16 {
+  left: 19px;
+  color: rgba(22, 22, 22, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-frame03 {
+  top: 0px;
+  left: 118px;
+  width: 70px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-checkbox2 {
+  top: 4px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.frame06-text18 {
+  left: 19px;
+  color: rgba(22, 22, 22, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-frame2 {
+  top: 69px;
+  left: 15px;
+  width: 190px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-text20 {
+  color: rgba(255, 90, 80, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-brown {
+  top: 26px;
+  left: 0px;
+  width: 37.5px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame06-abff7e9d05fb82b40d3fb8b8d56d690f1 {
+  top: -31px;
+  left: 87px;
+  width: 137px;
+  height: 91px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame06-dark-brown {
+  top: 26px;
+  left: 51px;
+  width: 37.5px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame06-leathertextureleatherskinwallpaperpreview1 {
+  top: -65px;
+  left: -92px;
+  width: 222px;
+  height: 159px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame06-beige {
+  top: 26px;
+  left: 102px;
+  width: 37.5px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame06-closeupofseamlessbeigeleathertexturephoto1 {
+  top: -2px;
+  left: -7px;
+  width: 51px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame06-black {
+  top: 26px;
+  left: 152.5px;
+  width: 37.5px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame06-b-l-a-c-k-l-e-a-t-h-e-r-t-e-x-t-u-r-e72415442321 {
+  top: 34px;
+  left: -9.5px;
+  width: 38px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame06-try-sililarchairs {
+  top: 145px;
+  left: 15px;
+  width: 165px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame06-text22 {
+  color: rgba(22, 22, 22, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame06-fluentline {
+  top: 56px;
+  left: 345px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
